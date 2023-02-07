@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jHdIZjG+b/x+1Wc3CQiUj6dttw3cPt7SESPSmPbhxJl7xrDBgEsH/r1/cLlrSBvcMxVlH7tKrNymsqU3CqXmgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SenaNur\\source\\repos\\AOP\\AOPProxyDesignPattern\\InvocationApp\\InvocationApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SenaNur\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
+    "C:\\Users\\SenaNur\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
